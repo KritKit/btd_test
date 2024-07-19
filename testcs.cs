@@ -8,7 +8,6 @@ public class Hello {
         
         choice(int.Parse(input));
 	}
-
     public static void choice(int choice){
         switch (choice){
             case 1:

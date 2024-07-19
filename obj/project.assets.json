@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ThousandRain\\testcss\\testcss.csproj",
+      "projectUniqueName": "C:\\Users\\ThousandRain\\btd_test\\testcss.csproj",
       "projectName": "testcss",
-      "projectPath": "C:\\Users\\ThousandRain\\testcss\\testcss.csproj",
+      "projectPath": "C:\\Users\\ThousandRain\\btd_test\\testcss.csproj",
       "packagesPath": "C:\\Users\\ThousandRain\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ThousandRain\\testcss\\obj\\",
+      "outputPath": "C:\\Users\\ThousandRain\\btd_test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ThousandRain\\AppData\\Roaming\\NuGet\\NuGet.Config"
