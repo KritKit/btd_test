@@ -1,0 +1,14 @@
+c:\Users\ThousandRain\testcss\bin\Debug\net7.0\testcss.exe
+C:\Users\ThousandRain\testcss\bin\Debug\net7.0\testcss.deps.json
+C:\Users\ThousandRain\testcss\bin\Debug\net7.0\testcss.runtimeconfig.json
+c:\Users\ThousandRain\testcss\bin\Debug\net7.0\testcss.dll
+c:\Users\ThousandRain\testcss\bin\Debug\net7.0\testcss.pdb
+c:\Users\ThousandRain\testcss\obj\Debug\net7.0\testcss.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ThousandRain\testcss\obj\Debug\net7.0\testcss.AssemblyInfoInputs.cache
+c:\Users\ThousandRain\testcss\obj\Debug\net7.0\testcss.AssemblyInfo.cs
+c:\Users\ThousandRain\testcss\obj\Debug\net7.0\testcss.csproj.CoreCompileInputs.cache
+c:\Users\ThousandRain\testcss\obj\Debug\net7.0\testcss.dll
+c:\Users\ThousandRain\testcss\obj\Debug\net7.0\refint\testcss.dll
+c:\Users\ThousandRain\testcss\obj\Debug\net7.0\testcss.pdb
+C:\Users\ThousandRain\testcss\obj\Debug\net7.0\testcss.genruntimeconfig.cache
+C:\Users\ThousandRain\testcss\obj\Debug\net7.0\ref\testcss.dll
