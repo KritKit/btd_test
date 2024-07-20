@@ -4,6 +4,7 @@ public class Hello {
         Console.WriteLine("Choice : \n");
         Console.WriteLine("1. Delete aeiou\n");
         Console.WriteLine("2. Christmas Tree\n");
+        Console.WriteLine("3. ATM Cut Number\n");
 		string input = Console.ReadLine();
         
         choice(int.Parse(input));
@@ -15,6 +16,9 @@ public class Hello {
                 break;
             case 2:
                 xmas();
+                break;
+            case 3:
+                atm_cut();
                 break;
             default:
                 Console.WriteLine("Error");
@@ -73,5 +77,40 @@ public class Hello {
       }
       System.Console.WriteLine(spaze+"|");
       System.Console.WriteLine(baze+"V"+baze);
+    }
+
+    public static void atm_cut() {
+        Console.WriteLine("Choice 3 : ATM Cut Number\nInput : ");
+           string input = System.Console.ReadLine();
+            string innp = "";
+            double numberz = 0;
+            double sumz = 0;
+            string sshow = "";
+
+        for (int i = 0; i < input.Length; i++){
+            if("1234567890".Contains(input[i])){
+                innp += input[i];
+            }else{
+                if(innp != ""){
+                  numberz = double.Parse(innp);
+                  sumz += numberz;
+                  innp = "";
+                }
+            }
+        }
+            if(innp != ""){
+              numberz = double.Parse(innp);
+              sumz += numberz;
+              innp = "";
+            }
+            if( sumz < 1000){
+              sshow += "0";
+                if(sumz < 100){
+                  sshow += "0";
+                }
+            }     
+            sshow += sumz.ToString();
+            System.Console.WriteLine(sshow);
+    
     }
 }

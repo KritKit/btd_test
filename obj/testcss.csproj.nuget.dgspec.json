@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ThousandRain\\btd_test\\testcss.csproj": {}
+    "c:\\Users\\ThousandRain\\btd_test\\testcss.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ThousandRain\\btd_test\\testcss.csproj": {
+    "c:\\Users\\ThousandRain\\btd_test\\testcss.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ThousandRain\\btd_test\\testcss.csproj",
+        "projectUniqueName": "c:\\Users\\ThousandRain\\btd_test\\testcss.csproj",
         "projectName": "testcss",
-        "projectPath": "C:\\Users\\ThousandRain\\btd_test\\testcss.csproj",
+        "projectPath": "c:\\Users\\ThousandRain\\btd_test\\testcss.csproj",
         "packagesPath": "C:\\Users\\ThousandRain\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ThousandRain\\btd_test\\obj\\",
+        "outputPath": "c:\\Users\\ThousandRain\\btd_test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ThousandRain\\AppData\\Roaming\\NuGet\\NuGet.Config"
